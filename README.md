@@ -1,5 +1,8 @@
-C.ja is my name.
+I'm C.ja ! 
 ======================
-> BIRTH: xx.10.10  
+> BIRTH: 199x.10.10  
 > FEMALE  
+> LOCATION:  Changchun,CHINA  
 > started learning JAVA from 2019  
+--------------------------
+C.ja ,see U !
