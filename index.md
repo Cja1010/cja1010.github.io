@@ -2,8 +2,8 @@
 layout: default
 ---
 
-你好, 这里是C.ja的blog
-Hey, I'm C.ja ! 
+你好, 这里是C.ja的blog  
+Hey, I'm C.ja !  
 ======================
 > BIRTH: 199x.10.10  
 > FEMALE  
@@ -13,13 +13,18 @@ Hey, I'm C.ja !
 C.ja ,see U !
 
 
+----------------------------------
+
 Today is 2021/1/23
 ===============
-I would like to start my github blog.  
-a little bit difficult.....orz
+> I would like to start my github blog.  
+> a little bit difficult.....orz
+
+----------------------------------
+
 
 下面是markdown笔记
--------------------------------
+=============
 
 一级标题用一排 =
 ===========================
