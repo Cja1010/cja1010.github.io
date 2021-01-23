@@ -2,14 +2,8 @@
 layout: default
 ---
 
-Text can be **bold**, _italic_, or ~~strikethrough~~.
-
-
-There should be whitespace between paragraphs.
-
-There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
-
-I'm C.ja ! 
+你好, 这里是C.ja的blog
+Hey, I'm C.ja ! 
 ======================
 > BIRTH: 199x.10.10  
 > FEMALE  
@@ -17,3 +11,63 @@ I'm C.ja !
 > started learning JAVA from 2019  
 --------------------------
 C.ja ,see U !
+
+
+Today is 2021/1/23
+===============
+I would like to start my github blog.  
+a little bit difficult.....orz
+
+下面是markdown笔记
+-------------------------------
+
+一级标题用一排 =
+===========================
+二级标题用一排（并且自带下划线）-
+-----------------------------------------
+### 三级标题用### 
+###### 六级标题最小 六个#需要有空格
+
+*斜体两端各一个星（无空格）*
+**粗体两端各2个星**
+***粗体+斜体两端各三个星***
+
+* 星号
+* 加号
+* 减号
+* 都是列表
+
+1. 列表的嵌套
+    - 前面加4个空格就行
+    - 前面加4个空格（符号和文字前有空格）
+2. 列表的嵌套
+
+> 区块就是前面画一条线
+> 是我喜欢的方式，很清晰
+> > 区块可以嵌套
+> >  + 区块可以里面放列表
+> >  + 区块里面可以放任何
+> >  + 别的里面也可以放区块
+
+`英文符号上段的一个大点（键盘上~下放那个），效果是包起来，表示代码`
+
+```
+三个这样的大点表示：
+把这样的一段包起来
+```
+
+这是一个链接(前面文字中括号，网址小括号)  [百度](www.baidu.com)
+
+> 下面是一张图片：叹号+中括号+小括号图片网址
+> 也可以用img标签
+> ![RUNOOB 图标](http://static.runoob.com/images/runoob-logo.png)
+
+| 表格 | 竟然 | 可以手画 |
+| :---- | ----: |  :----: |
+| aaa | 文字两端 | 需要空格 |
+|  : - 左对齐   |  - ：右对齐  |  :-: 居中  |
+
+\*反斜杠是转义字符*
+
+markdown 学完啦~~~~~
+2021.01.20
