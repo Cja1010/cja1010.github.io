@@ -1,6 +1,8 @@
 ---
 layout: default
----
+---   
+
+
 
 #你好, 这里是C.ja的blog#  
 #Hey, I'm C.ja !#
