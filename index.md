@@ -9,8 +9,7 @@ Hey, I'm C.ja !
 > FEMALE  
 > LOCATION:  Changchun,CHINA  
 > started learning JAVA from 2019  
---------------------------
-C.ja ,see U !
+
 
 
 ----------------------------------
