@@ -1,7 +1,3 @@
----
-layout: default
----   
-
 
 
 #你好, 这里是C.ja的blog#  
